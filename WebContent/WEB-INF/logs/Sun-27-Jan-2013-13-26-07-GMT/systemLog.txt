@@ -1,0 +1,21 @@
+27012013_11.58.47.604-0200	
+27012013_11.58.47.604-0200	Run: 1
+27012013_11.58.47.605-0200	
+27012013_11.58.47.605-0200	Time: 1359295127605
+27012013_11.58.47.636-0200	userResponse:{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-26-07-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945645;-3.1870300000000498"}
+27012013_11.58.47.636-0200	User location reported:55.945645;-3.1870300000000498
+27012013_11.58.47.637-0200	User DA: {"cf":"null"}
+27012013_11.58.47.637-0200	User reported position: 55.945645,-3.1870300000000498
+27012013_11.58.47.637-0200	Coordinates used: reported
+27012013_11.58.47.638-0200	User current position: 55.945645,-3.1870300000000498
+27012013_11.58.47.932-0200	Current ways list (possibilities): [197, 194, 193, 192]
+27012013_11.58.47.934-0200	Current way: 197
+27012013_11.58.48.401-0200	User location: [Bristo Square, Potterrow, Marshall Street]
+27012013_11.58.48.404-0200	Current Step Distance: unknown
+27012013_11.58.48.405-0200	user walking: false
+27012013_11.58.48.405-0200	User Orientation: unknown
+27012013_11.58.48.406-0200	User DACF: null
+27012013_11.58.48.407-0200	SysDA: {"userDA":"{\"cf\":\"null\"}","currentUserOrientation":0.0,"currentUserCoor":"55.945645,-3.1870300000000498","cf":"greetUser"}
+27012013_11.58.48.407-0200	Setting lastTimeOfUtterance to 1359295127605
+27012013_11.58.48.408-0200	Sys Utterance: Hi. I am your buddy. I can help you with directions.
+27012013_11.58.48.408-0200	sysResponse: {"utterance":"Hi. I am your buddy. I can help you with directions.","uttType":"setup"}

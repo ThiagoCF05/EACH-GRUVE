@@ -1,0 +1,1 @@
+27012013_10.53.23.664-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-12-47-20-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945719;-3.1870810000000347"}

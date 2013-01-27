@@ -1,0 +1,556 @@
+27012013_11.58.57.461-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"NaN;NaN"}
+27012013_11.58.57.804-0200	{"utterance":"Hi. I am your buddy. I can help you with directions.","uttType":"setup","userType":"im"}
+27012013_11.58.58.111-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945719;-3.1870810000000347"}
+27012013_11.58.58.376-0200	{"utterance":"I need your orientation. Please start walking.","uttType":"setup","userType":"im"}
+27012013_11.59.08.024-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945719;-3.1870810000000347"}
+27012013_11.59.08.054-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_11.59.09.982-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"Crichton Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945719;-3.1870810000000347"}
+27012013_11.59.10.045-0200	{"utterance":"ok. finding directions to Crichton Street","uttType":"navInstruction","userType":"im"}
+27012013_11.59.19.983-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945719;-3.1870810000000347"}
+27012013_11.59.20.331-0200	{"utterance":"Turn around to your right and walk onto Potterrow","uttType":"navInstruction","userType":"im"}
+27012013_11.59.30.021-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945719;-3.1870810000000347"}
+27012013_11.59.30.087-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_11.59.36.237-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945826000000004;-3.187152999999853"}
+27012013_11.59.36.314-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_11.59.42.783-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94591200000001;-3.187212999999929"}
+27012013_11.59.42.822-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_11.59.47.032-0200	{"userDA":"{\"cf\":\"requestRepeat\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945912;-3.187212999999929"}
+27012013_11.59.47.067-0200	{"utterance":"I repeat, Turn around to your right and walk onto Potterrow","uttType":"navInstruction","userType":"im"}
+27012013_11.59.55.369-0200	{"userDA":"{\"cf\":\"requestDirection\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945912;-3.187212999999929"}
+27012013_11.59.55.441-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_11.59.59.366-0200	{"userDA":"{\"cf\":\"requestDirection\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945912;-3.187212999999929"}
+27012013_11.59.59.440-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.00.01.545-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945994999999996;-3.1872730000000047"}
+27012013_12.00.01.614-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.00.06.557-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946087000000006;-3.1873390000000654"}
+27012013_12.00.06.607-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.00.11.898-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946187;-3.1874109999999973"}
+27012013_12.00.11.937-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.00.21.915-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946187;-3.1874109999999973"}
+27012013_12.00.22.154-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.00.31.753-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946279;-3.1874760000000606"}
+27012013_12.00.31.789-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.00.36.178-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94635999999999;-3.1875350000000253"}
+27012013_12.00.36.231-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.00.39.820-0200	{"userDA":"{\"cf\":\"requestDirection\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94636;-3.1875350000000253"}
+27012013_12.00.39.859-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.00.42.467-0200	{"userDA":"{\"cf\":\"requestRepeat\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94636;-3.1875350000000253"}
+27012013_12.00.42.527-0200	{"utterance":"I repeat, Turn around to your right and walk onto Potterrow","uttType":"navInstruction","userType":"im"}
+27012013_12.00.52.488-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94635999999999;-3.1875350000000253"}
+27012013_12.00.52.610-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.00.54.324-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946434;-3.187601000000086"}
+27012013_12.00.54.387-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.00.58.899-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"Crichton Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946434;-3.1876009999999724"}
+27012013_12.00.58.919-0200	{"utterance":"ok. finding directions to Crichton Street","uttType":"navInstruction","userType":"im"}
+27012013_12.01.08.897-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946434;-3.187601000000086"}
+27012013_12.01.09.099-0200	{"utterance":"Turn around and walk onto Potterrow","uttType":"navInstruction","userType":"im"}
+27012013_12.01.18.902-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946434;-3.187601000000086"}
+27012013_12.01.18.951-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.01.19.054-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94635999999999;-3.1875350000000253"}
+27012013_12.01.19.099-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.01.22.433-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946279;-3.1874760000000606"}
+27012013_12.01.22.478-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.01.26.707-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946187;-3.1874109999999973"}
+27012013_12.01.26.752-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.01.34.018-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"Crichton Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946187;-3.1874109999999973"}
+27012013_12.01.34.036-0200	{"utterance":"ok. finding directions to Crichton Street","uttType":"navInstruction","userType":"im"}
+27012013_12.01.44.020-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946187;-3.1874109999999973"}
+27012013_12.01.44.213-0200	{"utterance":"Continue walking onto Potterrow","uttType":"navInstruction","userType":"im"}
+27012013_12.01.46.653-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946087000000006;-3.1873390000000654"}
+27012013_12.01.46.706-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.01.49.854-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945994999999996;-3.1872730000000047"}
+27012013_12.01.49.917-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.01.53.204-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"Crichton Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945995;-3.1872730000000047"}
+27012013_12.01.53.249-0200	{"utterance":"ok. finding directions to Crichton Street","uttType":"navInstruction","userType":"im"}
+27012013_12.02.03.194-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945994999999996;-3.1872730000000047"}
+27012013_12.02.03.435-0200	{"utterance":"Turn left onto null","uttType":"navInstruction","userType":"im"}
+27012013_12.02.10.752-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94591200000001;-3.187212999999929"}
+27012013_12.02.10.801-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.02.15.312-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945826000000004;-3.187152999999853"}
+27012013_12.02.15.349-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.02.19.340-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"Crichton Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945826;-3.1871529999999666"}
+27012013_12.02.19.358-0200	{"utterance":"ok. finding directions to Crichton Street","uttType":"navInstruction","userType":"im"}
+27012013_12.02.29.342-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945826000000004;-3.187152999999853"}
+27012013_12.02.29.561-0200	{"utterance":"Continue walking onto Potterrow","uttType":"navInstruction","userType":"im"}
+27012013_12.02.34.011-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945719;-3.1870810000000347"}
+27012013_12.02.34.071-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.02.36.969-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"Crichton Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945719;-3.1870810000000347"}
+27012013_12.02.36.987-0200	{"utterance":"ok. finding directions to Crichton Street","uttType":"navInstruction","userType":"im"}
+27012013_12.02.46.974-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945719;-3.1870810000000347"}
+27012013_12.02.47.201-0200	{"utterance":"Continue walking onto Potterrow","uttType":"navInstruction","userType":"im"}
+27012013_12.02.52.903-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945645;-3.1870300000000498"}
+27012013_12.02.52.968-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.02.55.218-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945572000000006;-3.186971999999969"}
+27012013_12.02.55.253-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.02.57.981-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94550000000001;-3.1869159999999965"}
+27012013_12.02.58.021-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.02.59.095-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"Crichton Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.9455;-3.1869159999999965"}
+27012013_12.02.59.117-0200	{"utterance":"ok. finding directions to Crichton Street","uttType":"navInstruction","userType":"im"}
+27012013_12.03.09.076-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94550000000001;-3.1869159999999965"}
+27012013_12.03.09.211-0200	{"utterance":"Continue walking onto Potterrow","uttType":"navInstruction","userType":"im"}
+27012013_12.03.14.385-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945395000000005;-3.186833999999976"}
+27012013_12.03.14.419-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.03.17.275-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94530300000001;-3.186760999999933"}
+27012013_12.03.17.321-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.03.19.733-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945201000000004;-3.186681000000135"}
+27012013_12.03.19.781-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.03.20.930-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"Crichton Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945201;-3.1866810000000214"}
+27012013_12.03.20.959-0200	{"utterance":"ok. finding directions to Crichton Street","uttType":"navInstruction","userType":"im"}
+27012013_12.03.30.929-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945201000000004;-3.186681000000135"}
+27012013_12.03.31.089-0200	{"utterance":"Continue walking onto Potterrow","uttType":"navInstruction","userType":"im"}
+27012013_12.03.33.212-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945093;-3.1865940000000137"}
+27012013_12.03.33.255-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.03.35.687-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94502;-3.186533999999938"}
+27012013_12.03.35.721-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.03.37.878-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94492999999999;-3.186460000000011"}
+27012013_12.03.37.912-0200	{"utterance":"This is Crichton Street","uttType":"navInstruction","userType":"im"}
+27012013_12.03.39.758-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94483199999999;-3.1863799999999856"}
+27012013_12.03.39.786-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.03.48.460-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944725;-3.186292999999978"}
+27012013_12.03.48.478-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.03.52.275-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94470400000001;-3.1864210000001094"}
+27012013_12.03.52.296-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.03.54.908-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944683000000005;-3.1865440000000262"}
+27012013_12.03.54.926-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.03.58.276-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944654000000014;-3.1867130000000543"}
+27012013_12.03.58.297-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.04.08.281-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944654000000014;-3.1867130000000543"}
+27012013_12.04.08.297-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.04.10.659-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944633;-3.186835999999971"}
+27012013_12.04.10.685-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.04.20.655-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944633;-3.186835999999971"}
+27012013_12.04.20.671-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.04.20.804-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"West Nicolson Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944633;-3.186835999999971"}
+27012013_12.04.20.820-0200	{"utterance":"ok. finding directions to West Nicolson Street","uttType":"navInstruction","userType":"im"}
+27012013_12.04.30.796-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944633;-3.186835999999971"}
+27012013_12.04.30.995-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.04.40.805-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944633;-3.186835999999971"}
+27012013_12.04.40.832-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.04.50.799-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944633;-3.186835999999971"}
+27012013_12.04.50.835-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.05.00.805-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944633;-3.186835999999971"}
+27012013_12.05.00.834-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.05.03.705-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"West Nicolson Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944633;-3.186835999999971"}
+27012013_12.05.03.721-0200	{"utterance":"ok. finding directions to West Nicolson Street","uttType":"navInstruction","userType":"im"}
+27012013_12.05.05.930-0200	{"userDA":"{\"cf\":\"requestRepeat\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944633;-3.186835999999971"}
+27012013_12.05.06.148-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.05.10.366-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944615;-3.1869440000000395"}
+27012013_12.05.10.400-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.05.13.259-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944544000000015;-3.187359000000015"}
+27012013_12.05.13.295-0200	{"utterance":"I repeat, ok. finding directions to West Nicolson Street","uttType":"navInstruction","userType":"im"}
+27012013_12.05.23.245-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944544000000015;-3.187359000000015"}
+27012013_12.05.23.287-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.05.24.250-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944511;-3.1875579999998536"}
+27012013_12.05.24.279-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.05.27.781-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"West Nicolson Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944511;-3.1875579999999673"}
+27012013_12.05.27.798-0200	{"utterance":"ok. finding directions to West Nicolson Street","uttType":"navInstruction","userType":"im"}
+27012013_12.05.37.779-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944511;-3.1875579999998536"}
+27012013_12.05.37.991-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.05.47.789-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944511;-3.1875579999998536"}
+27012013_12.05.47.818-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.05.57.782-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944511;-3.1875579999998536"}
+27012013_12.05.57.815-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.06.05.820-0200	{"userDA":"{\"cf\":\"requestDirection\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944511;-3.1875579999999673"}
+27012013_12.06.05.863-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.06.07.237-0200	{"userDA":"{\"cf\":\"stopDirections\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944511;-3.1875579999999673"}
+27012013_12.06.07.259-0200	{"utterance":"ok","uttType":"dm","userType":"im"}
+27012013_12.06.12.478-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"West Nicolson Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944511;-3.1875579999999673"}
+27012013_12.06.12.495-0200	{"utterance":"ok. finding directions to West Nicolson Street","uttType":"navInstruction","userType":"im"}
+27012013_12.06.22.516-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944511;-3.1875579999998536"}
+27012013_12.06.22.811-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.06.31.146-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94449300000001;-3.1877170000000206"}
+27012013_12.06.31.194-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.06.35.718-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94446899999999;-3.1878059999999095"}
+27012013_12.06.35.754-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.06.42.619-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944435;-3.1880220000000463"}
+27012013_12.06.42.651-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.06.46.259-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944405;-3.1882080000000315"}
+27012013_12.06.46.293-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.06.49.521-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944375;-3.1883929999999054"}
+27012013_12.06.49.554-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.06.52.826-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944343;-3.1885939999999664"}
+27012013_12.06.52.856-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.06.56.875-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"West Nicolson Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944343;-3.1885939999999664"}
+27012013_12.06.56.906-0200	{"utterance":"ok. finding directions to West Nicolson Street","uttType":"navInstruction","userType":"im"}
+27012013_12.06.59.643-0200	{"userDA":"{\"cf\":\"requestHelp\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944343;-3.1885939999999664"}
+27012013_12.06.59.831-0200	{"utterance":"I can help you with directions. Select a street you want to go to and click the send button. You might find clues that you are looking for when you reach the street.","uttType":"dm","userType":"im"}
+27012013_12.07.09.683-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944343;-3.1885939999999664"}
+27012013_12.07.09.738-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.07.19.658-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944343;-3.1885939999999664"}
+27012013_12.07.19.687-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.07.19.986-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"South College Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944343;-3.1885939999999664"}
+27012013_12.07.20.003-0200	{"utterance":"ok. finding directions to South College Street","uttType":"navInstruction","userType":"im"}
+27012013_12.07.29.989-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944343;-3.1885939999999664"}
+27012013_12.07.30.229-0200	{"utterance":"Turn around and walk onto null","uttType":"navInstruction","userType":"im"}
+27012013_12.07.40.028-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944343;-3.1885939999999664"}
+27012013_12.07.40.074-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.07.42.146-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944375;-3.1883929999999054"}
+27012013_12.07.42.179-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.07.45.411-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944405;-3.1882080000000315"}
+27012013_12.07.45.494-0200	{"utterance":"Continue walking onto Crichton Street","uttType":"navInstruction","userType":"im"}
+27012013_12.07.48.153-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944435;-3.1880220000000463"}
+27012013_12.07.48.201-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.07.50.586-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94446899999999;-3.1878059999999095"}
+27012013_12.07.50.621-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.07.54.455-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94449300000001;-3.1877170000000206"}
+27012013_12.07.54.491-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.07.56.870-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944511;-3.1875579999998536"}
+27012013_12.07.56.906-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.07.59.279-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944544000000015;-3.187359000000015"}
+27012013_12.07.59.313-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.08.02.326-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944615;-3.1869440000000395"}
+27012013_12.08.02.356-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.08.08.280-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"South College Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944615;-3.1869440000000395"}
+27012013_12.08.08.295-0200	{"utterance":"ok. finding directions to South College Street","uttType":"navInstruction","userType":"im"}
+27012013_12.08.18.291-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944615;-3.1869440000000395"}
+27012013_12.08.18.592-0200	{"utterance":"Continue walking onto null","uttType":"navInstruction","userType":"im"}
+27012013_12.08.21.157-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944633;-3.186835999999971"}
+27012013_12.08.21.190-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.08.23.872-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944654000000014;-3.1867130000000543"}
+27012013_12.08.23.969-0200	{"utterance":"Turn left onto Potterrow","uttType":"navInstruction","userType":"im"}
+27012013_12.08.25.677-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944683000000005;-3.1865440000000262"}
+27012013_12.08.25.737-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.08.28.257-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94470400000001;-3.1864210000001094"}
+27012013_12.08.28.296-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.08.36.463-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944725;-3.186292999999978"}
+27012013_12.08.36.500-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.08.38.576-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94483199999999;-3.1863799999999856"}
+27012013_12.08.38.636-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.08.44.186-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94492999999999;-3.186460000000011"}
+27012013_12.08.44.220-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.08.46.894-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94502;-3.186533999999938"}
+27012013_12.08.46.925-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.08.49.709-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945093;-3.1865940000000137"}
+27012013_12.08.49.737-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.08.51.999-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945201000000004;-3.186681000000135"}
+27012013_12.08.52.032-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.08.53.946-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94530300000001;-3.186760999999933"}
+27012013_12.08.53.979-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.08.56.060-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945395000000005;-3.186833999999976"}
+27012013_12.08.56.172-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.08.58.144-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94550000000001;-3.1869159999999965"}
+27012013_12.08.58.185-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.09.00.429-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945572000000006;-3.186971999999969"}
+27012013_12.09.00.473-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.09.04.531-0200	{"userDA":"{\"cf\":\"requestDirection\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945572;-3.186971999999969"}
+27012013_12.09.04.571-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.09.06.061-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"South College Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945572;-3.186971999999969"}
+27012013_12.09.06.077-0200	{"utterance":"ok. finding directions to South College Street","uttType":"navInstruction","userType":"im"}
+27012013_12.09.16.059-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945572000000006;-3.186971999999969"}
+27012013_12.09.16.312-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.09.26.062-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945572000000006;-3.186971999999969"}
+27012013_12.09.26.090-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.09.28.245-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945645;-3.1870300000000498"}
+27012013_12.09.28.329-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.09.30.412-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945719;-3.1870810000000347"}
+27012013_12.09.30.480-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.09.32.010-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945826000000004;-3.187152999999853"}
+27012013_12.09.32.058-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.09.33.652-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94591200000001;-3.187212999999929"}
+27012013_12.09.33.705-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.09.35.186-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945994999999996;-3.1872730000000047"}
+27012013_12.09.35.230-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.09.36.849-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946087000000006;-3.1873390000000654"}
+27012013_12.09.36.893-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.09.38.062-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946187;-3.1874109999999973"}
+27012013_12.09.38.106-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.09.39.434-0200	{"userDA":"{\"cf\":\"acknowledge\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946187;-3.1874109999999973"}
+27012013_12.09.39.479-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.09.49.434-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946187;-3.1874109999999973"}
+27012013_12.09.49.460-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.09.52.445-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946279;-3.1874760000000606"}
+27012013_12.09.52.479-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.09.53.781-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94635999999999;-3.1875350000000253"}
+27012013_12.09.53.815-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.09.58.719-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946434;-3.187601000000086"}
+27012013_12.09.58.771-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.10.00.687-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94644300000001;-3.1876640000000407"}
+27012013_12.10.00.913-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.10.03.789-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94652000000001;-3.1878119999998944"}
+27012013_12.10.03.895-0200	{"utterance":"Turn around and walk onto Potterrow","uttType":"navInstruction","userType":"im"}
+27012013_12.10.10.671-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94644300000001;-3.1876640000000407"}
+27012013_12.10.10.720-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.10.12.431-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946434;-3.187601000000086"}
+27012013_12.10.12.468-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.10.13.937-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94635999999999;-3.1875350000000253"}
+27012013_12.10.13.982-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.10.15.012-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946279;-3.1874760000000606"}
+27012013_12.10.15.045-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.10.16.089-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946187;-3.1874109999999973"}
+27012013_12.10.16.153-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.10.20.661-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946087000000006;-3.1873390000000654"}
+27012013_12.10.20.881-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.10.23.629-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945994999999996;-3.1872730000000047"}
+27012013_12.10.23.675-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.10.24.952-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94591200000001;-3.187212999999929"}
+27012013_12.10.24.996-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.10.30.322-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945826000000004;-3.187152999999853"}
+27012013_12.10.30.448-0200	{"utterance":"Turn left onto Marshall Street","uttType":"navInstruction","userType":"im"}
+27012013_12.10.32.949-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945719;-3.1870810000000347"}
+27012013_12.10.33.001-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.10.36.253-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945645;-3.1870300000000498"}
+27012013_12.10.36.328-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.10.37.765-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945698;-3.1868279999999913"}
+27012013_12.10.37.799-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.10.39.636-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94572900000001;-3.186694999999986"}
+27012013_12.10.39.758-0200	{"utterance":"Continue walking onto Nicolson Square","uttType":"navInstruction","userType":"im"}
+27012013_12.10.45.095-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94577799999999;-3.186488000000054"}
+27012013_12.10.45.125-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.10.46.851-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94582;-3.1863100000000486"}
+27012013_12.10.46.976-0200	{"utterance":"Continue walking onto Nicolson Square","uttType":"navInstruction","userType":"im"}
+27012013_12.10.48.175-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945780000000006;-3.1860699999999724"}
+27012013_12.10.48.211-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.10.53.548-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945781999999994;-3.185813000000053"}
+27012013_12.10.53.584-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.10.55.445-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945815;-3.185672000000068"}
+27012013_12.10.55.478-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.10.57.794-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94582500000001;-3.1856279999999515"}
+27012013_12.10.57.830-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.11.00.600-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94587200000001;-3.185436999999979"}
+27012013_12.11.00.635-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.11.04.133-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945908;-3.1852890000000116"}
+27012013_12.11.04.175-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.11.08.983-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945947;-3.185126999999966"}
+27012013_12.11.09.047-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.11.18.985-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945947;-3.185126999999966"}
+27012013_12.11.19.036-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.11.21.340-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945908;-3.1852890000000116"}
+27012013_12.11.21.376-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.11.31.385-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945908;-3.1852890000000116"}
+27012013_12.11.31.448-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.11.32.287-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945947;-3.185126999999966"}
+27012013_12.11.32.338-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.11.36.968-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"South College Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945947;-3.185126999999966"}
+27012013_12.11.36.996-0200	{"utterance":"ok. finding directions to South College Street","uttType":"navInstruction","userType":"im"}
+27012013_12.11.46.966-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945947;-3.185126999999966"}
+27012013_12.11.47.155-0200	{"utterance":"Turn left onto Nicolson Street","uttType":"navInstruction","userType":"im"}
+27012013_12.11.56.713-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94604100000001;-3.1850359999999682"}
+27012013_12.11.56.870-0200	{"utterance":"Turn slightly left  onto Nicolson Street","uttType":"navInstruction","userType":"im"}
+27012013_12.12.00.191-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94609;-3.1848829999998998"}
+27012013_12.12.00.226-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.12.02.834-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94604100000001;-3.1850359999999682"}
+27012013_12.12.02.898-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.12.04.223-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945947;-3.185126999999966"}
+27012013_12.12.04.266-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.12.09.169-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945908;-3.1852890000000116"}
+27012013_12.12.09.229-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.12.12.289-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945947;-3.185126999999966"}
+27012013_12.12.12.333-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.12.15.645-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94591700000001;-3.1850039999999353"}
+27012013_12.12.15.697-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.12.18.761-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945835;-3.1849190000000362"}
+27012013_12.12.18.803-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.12.23.336-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945752000000006;-3.1848340000000235"}
+27012013_12.12.23.365-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.12.26.741-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94567;-3.1847490000000107"}
+27012013_12.12.26.786-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.12.30.327-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945585;-3.184662000000003"}
+27012013_12.12.30.356-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.12.34.011-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945501;-3.1845749999999953"}
+27012013_12.12.34.043-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.12.37.015-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945422;-3.1844939999999724"}
+27012013_12.12.37.054-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.12.40.102-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"South College Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945422;-3.1844939999999724"}
+27012013_12.12.40.118-0200	{"utterance":"ok. finding directions to South College Street","uttType":"navInstruction","userType":"im"}
+27012013_12.12.50.101-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945422;-3.1844939999999724"}
+27012013_12.12.50.287-0200	{"utterance":"Turn around and walk onto Nicolson Street","uttType":"navInstruction","userType":"im"}
+27012013_12.12.53.603-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945501;-3.1845749999999953"}
+27012013_12.12.53.644-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.12.54.584-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945585;-3.184662000000003"}
+27012013_12.12.54.613-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.12.55.279-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94567;-3.1847490000000107"}
+27012013_12.12.55.323-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.12.55.891-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945752000000006;-3.1848340000000235"}
+27012013_12.12.55.992-0200	{"utterance":"Continue walking onto Nicolson Street","uttType":"navInstruction","userType":"im"}
+27012013_12.12.56.633-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945835;-3.1849190000000362"}
+27012013_12.12.56.676-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.12.57.527-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94591700000001;-3.1850039999999353"}
+27012013_12.12.57.570-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.13.00.308-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945947;-3.185126999999966"}
+27012013_12.13.00.374-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.13.01.625-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945908;-3.1852890000000116"}
+27012013_12.13.01.691-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.13.07.143-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94587200000001;-3.185436999999979"}
+27012013_12.13.07.188-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.13.17.147-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94587200000001;-3.185436999999979"}
+27012013_12.13.17.195-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.13.20.195-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94582500000001;-3.1856279999999515"}
+27012013_12.13.20.229-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.13.27.836-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94610900000001;-3.185734000000025"}
+27012013_12.13.27.960-0200	{"utterance":"Continue walking onto Nicolson Street","uttType":"navInstruction","userType":"im"}
+27012013_12.13.37.843-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94610900000001;-3.185734000000025"}
+27012013_12.13.37.870-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.13.44.263-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946155;-3.1855789999999615"}
+27012013_12.13.44.296-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.13.47.247-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946197;-3.185436999999979"}
+27012013_12.13.47.289-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.13.51.030-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946230000000014;-3.185320999999931"}
+27012013_12.13.51.067-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.13.54.543-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946073;-3.185161999999991"}
+27012013_12.13.54.605-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.14.04.547-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946073;-3.185161999999991"}
+27012013_12.14.04.577-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.14.07.149-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94604100000001;-3.1850359999999682"}
+27012013_12.14.07.219-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.14.08.931-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94609;-3.1848829999998998"}
+27012013_12.14.08.965-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.14.10.623-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94614000000001;-3.184729999999945"}
+27012013_12.14.10.664-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.14.12.694-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94619300000001;-3.1845630000000256"}
+27012013_12.14.12.741-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.14.16.278-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94625599999999;-3.1843679999999495"}
+27012013_12.14.16.327-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.14.18.540-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946296;-3.18424200000004"}
+27012013_12.14.18.568-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.14.21.847-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94635000000001;-3.184075000000007"}
+27012013_12.14.21.880-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.14.23.763-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946418;-3.183858999999984"}
+27012013_12.14.23.813-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.14.26.650-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946468;-3.1837900000000445"}
+27012013_12.14.26.682-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.14.28.366-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946479;-3.1836530000000494"}
+27012013_12.14.28.421-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.14.30.795-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94651199999999;-3.1835379999999986"}
+27012013_12.14.30.839-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.14.33.983-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946554000000006;-3.1833900000000313"}
+27012013_12.14.34.044-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.14.37.675-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"South College Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946554;-3.1833900000000313"}
+27012013_12.14.37.694-0200	{"utterance":"ok. finding directions to South College Street","uttType":"navInstruction","userType":"im"}
+27012013_12.14.47.680-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946554000000006;-3.1833900000000313"}
+27012013_12.14.48.048-0200	{"utterance":"Turn right onto Richmond Place","uttType":"navInstruction","userType":"im"}
+27012013_12.14.51.430-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946507000000004;-3.1833480000000236"}
+27012013_12.14.51.467-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.14.53.713-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946414000000004;-3.183287000000064"}
+27012013_12.14.53.744-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.14.56.142-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94631;-3.1832359999999653"}
+27012013_12.14.56.186-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.14.59.105-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946241;-3.1832019999999375"}
+27012013_12.14.59.138-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.15.02.677-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946167;-3.183161000000041"}
+27012013_12.15.02.721-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.15.06.210-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.946071;-3.1831019999999626"}
+27012013_12.15.06.243-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.15.08.891-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94598700000001;-3.183044999999993"}
+27012013_12.15.08.984-0200	{"utterance":"Turn slightly right  onto West Richmond Street","uttType":"navInstruction","userType":"im"}
+27012013_12.15.11.981-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945901;-3.1829740000000584"}
+27012013_12.15.12.020-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.15.16.173-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945822;-3.182907"}
+27012013_12.15.16.217-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.15.18.704-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945764;-3.1830079999999725"}
+27012013_12.15.18.738-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.15.23.031-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945727000000005;-3.1830700000000434"}
+27012013_12.15.23.064-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.15.25.602-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945663;-3.183181999999988"}
+27012013_12.15.25.697-0200	{"utterance":"Continue walking onto West Richmond Street","uttType":"navInstruction","userType":"im"}
+27012013_12.15.28.161-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945572000000006;-3.1833369999999377"}
+27012013_12.15.28.197-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.15.31.780-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945508000000004;-3.1834489999998823"}
+27012013_12.15.31.815-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.15.34.137-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945425;-3.183624000000009"}
+27012013_12.15.34.186-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.15.36.665-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94538599999999;-3.183708000000024"}
+27012013_12.15.36.696-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.15.39.195-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945325000000004;-3.1838350000000446"}
+27012013_12.15.39.228-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.15.42.053-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94525000000001;-3.1839939999999842"}
+27012013_12.15.42.137-0200	{"utterance":"Turn right onto Nicolson Street","uttType":"navInstruction","userType":"im"}
+27012013_12.15.44.924-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945191;-3.1841190000000097"}
+27012013_12.15.44.972-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.15.48.594-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94512600000001;-3.1841870000000654"}
+27012013_12.15.48.630-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.15.54.652-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94507200000001;-3.1843670000000657"}
+27012013_12.15.54.709-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.15.57.812-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945034;-3.18444599999998"}
+27012013_12.15.57.846-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.16.03.068-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94497400000001;-3.1845710000000054"}
+27012013_12.16.03.102-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.16.06.428-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.9449;-3.18472399999996"}
+27012013_12.16.06.464-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.16.15.438-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94484200000001;-3.1848439999999982"}
+27012013_12.16.15.471-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.16.19.194-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944796000000004;-3.1849399999999832"}
+27012013_12.16.19.243-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.16.21.881-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.16.21.915-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.16.24.501-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94471599999999;-3.185106000000019"}
+27012013_12.16.24.566-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.16.25.803-0200	{"userDA":"{\"cf\":\"requestRoute\",\"destination_name\":\"South College Street\",\"destination_type\":\"street\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944716;-3.185106000000019"}
+27012013_12.16.25.820-0200	{"utterance":"ok. finding directions to South College Street","uttType":"navInstruction","userType":"im"}
+27012013_12.16.29.072-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944653;-3.1852360000000317"}
+27012013_12.16.29.313-0200	{"utterance":"Turn around and walk onto null","uttType":"navInstruction","userType":"im"}
+27012013_12.16.39.077-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944653;-3.1852360000000317"}
+27012013_12.16.39.121-0200	{"utterance":"","uttType":"navInstruction","userType":"im"}
+27012013_12.16.43.501-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94471599999999;-3.185106000000019"}
+27012013_12.16.43.584-0200	{"utterance":"Continue walking onto West Nicolson Street","uttType":"navInstruction","userType":"im"}
+27012013_12.16.53.493-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.94471599999999;-3.185106000000019"}
+27012013_12.16.53.531-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.16.56.931-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.16.56.965-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.17.06.934-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.17.06.974-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.17.16.938-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.17.16.965-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.17.26.933-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.17.26.964-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.17.36.944-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.17.37.021-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.17.46.937-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.17.46.969-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.17.56.943-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.17.56.993-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.18.06.942-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.18.06.974-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.18.16.949-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.18.16.976-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.18.26.949-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.18.26.978-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.18.36.950-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.18.36.982-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.18.46.956-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.18.46.982-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.18.56.952-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.18.56.979-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.19.06.951-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.19.06.990-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.19.16.956-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.19.16.983-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.19.26.955-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.19.26.992-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.19.36.959-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.19.36.986-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.19.46.967-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.19.47.007-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.19.56.960-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.19.56.994-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.20.06.973-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.20.07.000-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.20.16.967-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.20.16.994-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.20.26.977-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.20.27.004-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.20.36.968-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.20.37.013-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.20.46.969-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.20.47.002-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.20.56.975-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.20.57.017-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.21.06.981-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.21.07.011-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.21.17.011-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.21.17.059-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.21.26.980-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.21.27.022-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.21.36.977-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.21.37.004-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.21.46.979-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.21.47.018-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.21.56.980-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.21.57.020-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.22.07.075-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.22.07.144-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.22.16.988-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.22.17.028-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.22.26.986-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.22.27.022-0200	{"utterance":"","uttType":"dm","userType":"im"}
+27012013_12.22.36.994-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-58-57-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.944747;-3.1850420000000668"}
+27012013_12.22.37.024-0200	{"utterance":"","uttType":"dm","userType":"im"}

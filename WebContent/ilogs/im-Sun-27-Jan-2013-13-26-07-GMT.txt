@@ -1,0 +1,2 @@
+27012013_11.58.47.604-0200	{"userDA":"{\"cf\":\"null\"}","sessionId":"Sun-27-Jan-2013-13-26-07-GMT","userUtterance":"","userEmail":"thiago.castro.ferreira@gmail.com","userType":"user","userPosition":"55.945645;-3.1870300000000498"}
+27012013_11.58.48.409-0200	{"utterance":"Hi. I am your buddy. I can help you with directions.","uttType":"setup","userType":"im"}
